@@ -1,9 +1,11 @@
 # Setup, compiling and running
 
-Install *devkitpro* [here](https://github.com/devkitPro/installer/releases/) 
-Install *citra* [here](https://citra-emulator.com/download) (3DS Emulator)
+Install **devkitpro** [here](https://github.com/devkitPro/installer/releases/) 
+
+Install **citra** [here](https://citra-emulator.com/download) (3DS Emulator)
 
 To compile, run make.exe
+
 Open the created .3dsx file in citra (drag and drop)
 
 
